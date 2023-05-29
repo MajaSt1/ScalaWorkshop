@@ -1,7 +1,6 @@
 package lectures.exercise
 
-import lectures.exercise.Empty.{head, tail}
-import lectures.part2oop.Generics.MyList
+import lectures.basics.part2oop.Generics.MyList
 
 import scala.annotation.targetName
 import scala.language.postfixOps
